@@ -1,6 +1,5 @@
 # SymptomGenLM
-## SymptomGen: Medical Symptom Description Assistant
-## Language Model
+## SymptomGen: Medical Symptom Description Assistant (Language Model)
 
 SymptomGen is a DistilGPT-2 (smallest version of Generative Pre-trained Transformer 2)-powered Health Description Assistant focused on generating detailed medical symptom descriptions. 
 Users input prompts directly into the notebook, leveraging the GPT-2 model to generate coherent and informative symptom descriptions. 
